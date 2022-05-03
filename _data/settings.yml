@@ -22,7 +22,7 @@ footer_settings:
 
 grid_settings:
   overlay_opacity: 0.6
-  grid_spacing: 10
+  grid_spacing: 6
 
 contact_settings:
   form_action: 'https://formspree.io/f/xlezozdd'
