@@ -1,14 +1,14 @@
-# Duet by JekyllThemes.io – Instructions
+# Duet by Jekyll s.io – Instructions
 
-If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers.
+If you have any questions or feedback about the  , don't hesitate to reach out to hello@jekyll s.io for 1-to-1 support direct from the developers.
 
 ---
 
 ## Getting started
 
-Copy the theme files to your website directory.
+Copy the   files to your website directory.
 
-To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `jekyll serve` to start the Jekyll server.
+To run the   locally, navigate to the   directory in your terminal and run `bundle install` to install the  's dependencies. Then run `jekyll serve` to start the Jekyll server.
 
 ---
 
@@ -19,9 +19,9 @@ or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontm
 
 ---
 
-## Customizing the theme
+## Customizing the  
 
-Duet comes packed with lots of options to let you customize the theme.
+Duet comes packed with lots of options to let you customize the  .
 
 ---
 
@@ -29,7 +29,7 @@ Duet comes packed with lots of options to let you customize the theme.
 
 The main things you might need to change here are:
 
-`site: Duet Jekyll Theme` – change this to your website's name
+`site: Duet Jekyll  ` – change this to your website's name
 
 `url:` – the full URL that your site will be hosted at, e.g. https://your-domain.com
 
@@ -45,7 +45,7 @@ You can also change more advanced things here like the path names, collections e
 
 ### The `settings.yml` file
 
-You'll find this inside the `_data` folder – this is where you can set all of the theme options.
+You'll find this inside the `_data` folder – this is where you can set all of the   options.
 
 **Basic settings**
 
@@ -74,10 +74,10 @@ This allows you to set the links inside your menu. Add each one as a list item w
 
 **Contact settings**
 
-The theme comes with a pre-made contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes), which is free for up to 50 submissions per month. They also have two great paid plans that offer advanced features. Use the link above to set up your account and then paste the 'endpoint' integration code into the theme settings:
+The   comes with a pre-made contact form that you can use with [Formspree](https://formspree.io/create/jekyll s), which is free for up to 50 submissions per month. They also have two great paid plans that offer advanced features. Use the link above to set up your account and then paste the 'endpoint' integration code into the   settings:
 
 `form_action` – this is the form endpoint attribute that you get from FormSpree, for example `https://formspree.io/abcdefgh`
-`confirmation_url` – by default the user is shown a default Formspree thank you page. If you have a premium plan, you can use this setting to provide an alternative URL for that page, for example `/thanks` – we have included a basic thank you page with the theme.
+`confirmation_url` – by default the user is shown a default Formspree thank you page. If you have a premium plan, you can use this setting to provide an alternative URL for that page, for example `/thanks` – we have included a basic thank you page with the  .
 `email_subject` – choose the subject of the email you receive from Formspree.
 `send_button_text` – change the text used on the form submit button.
 
@@ -89,7 +89,7 @@ Here you can add links to your profiles on social networks, and they'll be shown
 
 **Color settings**
 
-Here you can set all the different colors used by the theme. Try them out and find the color pallette that works for you!
+Here you can set all the different colors used by the  . Try them out and find the color pallette that works for you!
 
 **Font settings**
 
@@ -99,7 +99,7 @@ Here you can set all the different colors used by the theme. Try them out and fi
 `regular_weight` – set the font weight for regular styled text.
 `bold_weight` – set the font weight for bold styled text.
 
-Below these options, you'll see options for each typographical element used in the theme. For each, you can set the following options:
+Below these options, you'll see options for each typographical element used in the  . For each, you can set the following options:
 
 `small_size` – the size (in pixels) used for this element on small size screens like mobile phones.
 `medium_size` – the size (in pixels) used for this element on medium size screens like tablets.
@@ -112,7 +112,7 @@ Below these options, you'll see options for each typographical element used in t
 
 `ajax_loading` – use `true` to enable Ajax loading throughout your site. Use `false` to disable it and load pages normally – this can be helpful if you're adding plugins or other javascript to your pages.
 `analytics_code` – use this option to add your Google Analytics code.
-`custom_styles` – use this option to add custom CSS styles to the theme.
+`custom_styles` – use this option to add custom CSS styles to the  .
 `header_js` – use this option to insert javascript into the header of the page.
 `footer_js` – use this option to insert javascript at the end of the page.
 
@@ -120,7 +120,7 @@ Below these options, you'll see options for each typographical element used in t
 
 ### Images
 
-Inside the `/images/` folder you'll find a few images included with the theme.
+Inside the `/images/` folder you'll find a few images included with the  .
 
 The images in the `/demo/` subfolder are used in the demo project, post and page – you delete those if you don't need them.
 
@@ -132,7 +132,7 @@ The images in the `/demo/` subfolder are used in the demo project, post and page
 
 ## Main pages
 
-The theme comes with some pages set up ready for your content.
+The   comes with some pages set up ready for your content.
 
 ### The home page – `/index.html`
 
@@ -160,6 +160,6 @@ Take a look at the demo content inside each folder for full descriptions on what
 
 ## Any questions?
 
-If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers!
+If you have any questions or feedback about the  , don't hesitate to reach out to hello@jekyll s.io for 1-to-1 support direct from the developers!
 
 🤘
