@@ -1,4 +1,3 @@
-remote_theme: nicolasmertens/mrtns
 site: MRTNS | Real Estate Developers
 
 url: https://mrtns.net
@@ -41,6 +40,7 @@ defaults:
       layout: "project"
 
 markdown: kramdown
+remote_theme: nicolasmertens/Duet
 
 kramdown:
   input: GFM
