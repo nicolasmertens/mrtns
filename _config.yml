@@ -1,7 +1,7 @@
 site: MRTNS | Real Estate Developers
 
-url: https://mrtns.net
-baseurl: /mrtns
+url: "https://mrtns.net"
+baseurl: "mrtns"
 
 collections:
   pages:
@@ -40,7 +40,7 @@ defaults:
       layout: "project"
 
 markdown: kramdown
-remote_theme: nicolasmertens/Duet
+
 
 kramdown:
   input: GFM
