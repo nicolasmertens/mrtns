@@ -1,7 +1,7 @@
 site: MRTNS | Real Estate Developers
 
 url: "https://mrtns.net"
-baseurl: "mrtns"
+baseurl: ""
 
 collections:
   pages:
